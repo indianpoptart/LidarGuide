@@ -12,13 +12,13 @@ This app works best with Apple's LiDAR scanner currently available on iPhone 12 
 
 Latest **Stable** Release: []() (NA)
 
-Latest **Beta** Release: []() (11/13/2018)
+Latest **Beta** Release: []() (NA)
 
 Current **Alpha** Release: [v0.0.1]() (10/21/2020)
 
 
 # Compatibility
-The app works properly, and has been personally tested on these devices:
+The app works best on these devices:
 - iPhone 12 Pro
 - iPhone 12 Pro Max
 - iPhone Xs
