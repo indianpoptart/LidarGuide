@@ -1,5 +1,6 @@
 # LidarGuide
 ![icon](https://nikhilp.org/images/lidarguide-icon-144.png)
+
 Helping you map your surroundings in low light conditions.
 
 Using the power of LiDAR in iPhone and iPad, this app will help the visually impaired to get a better sense of the objects around them either through auditory queues, or haptic feedback.
