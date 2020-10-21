@@ -1,4 +1,4 @@
-# LidarGuide
+# LiDARGuide
 ![icon](https://nikhilp.org/images/lidarguide-icon-144.png)
 
 Helping you map your surroundings in low light conditions.
